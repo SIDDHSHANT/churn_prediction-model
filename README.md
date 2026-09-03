@@ -378,7 +378,7 @@ This project is intended for **educational and demonstration purposes**. Predict
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author ->
 
 **Siddhartha Singh**
 
