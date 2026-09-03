@@ -380,6 +380,6 @@ This project is intended for **educational and demonstration purposes**. Predict
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Siddhartha Singh**
 
 If you found this project useful, consider giving the repository a ⭐ on GitHub.
